@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContaComException", "ContaComException.csproj", "{48F1B0BB-5E92-42F7-B9D1-3DFF5B8BA41D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48F1B0BB-5E92-42F7-B9D1-3DFF5B8BA41D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48F1B0BB-5E92-42F7-B9D1-3DFF5B8BA41D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48F1B0BB-5E92-42F7-B9D1-3DFF5B8BA41D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48F1B0BB-5E92-42F7-B9D1-3DFF5B8BA41D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C47235E1-8610-453B-9989-7E8322EF62DA}
+	EndGlobalSection
+EndGlobal

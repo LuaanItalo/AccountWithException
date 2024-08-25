@@ -27,7 +27,7 @@ internal class Program
            
 
         }
-        catch (Exception e)
+        catch (DomainException e)
         {
             Console.WriteLine($"Withdraw error: {e.Message}");
         }
